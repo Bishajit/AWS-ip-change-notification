@@ -1,7 +1,6 @@
 .terraform*
 *.tfstate
 *.backup
-*.zip
 *.lock
 *.hcl
 
