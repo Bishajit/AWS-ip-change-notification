@@ -1,1 +1,1 @@
-# AWS-ip-change-notification
+# AWS-ip-change-notification mini project
