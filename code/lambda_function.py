@@ -15,6 +15,8 @@ for ip in amazon_ips:
 
 for ip in amazon_ips_less_ec2: print(str(ip))
 
+# new lamda function
+
 """ def lambda_handler(message, subject):
     
     ip_ranges = requests.get('https://ip-ranges.amazonaws.com/ip-ranges.json').json()['prefixes']
