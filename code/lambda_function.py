@@ -15,7 +15,8 @@ for ip in amazon_ips:
 
 for ip in amazon_ips_less_ec2: print(str(ip))
 
-# new lamda function
+# new lamda function edit
+
 
 """ def lambda_handler(message, subject):
     
