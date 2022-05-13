@@ -16,7 +16,8 @@ for ip in amazon_ips:
 for ip in amazon_ips_less_ec2: print(str(ip))
 
 # new lamda function edit
-# https://www.tutorialspoint.com/aws_lambda/aws_lambda_using_lambda_function_with_amazon_sns.htm
+# https://www.tutorialspoint.com/aws_lambda/aws_lambda_using_lambda_function_with_amazon_sns.html
+# fanout method
 
 # exports.handler = function(event, context, callback) {
 #    console.log("AWS lambda and SNS trigger ");
